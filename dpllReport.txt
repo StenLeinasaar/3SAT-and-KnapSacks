@@ -1,0 +1,11 @@
+DPLL test results
+The median runTime was 0.001 seconds. 
+ The minimum time was 10000 seconds. 
+ The max time was 0.001 seconds. 
+ On average it took 0.001 seconds per instance 
+For test 0. The clauses satisfied were 10
+Runtime was 0.0005271434783935547
+The Truth assignment [True, None, True, None, False, False, None, None, True, None, True, None, None, None, None, None] 
+For test 1. The clauses satisfied were 10
+Runtime was 0.0011260509490966797
+The Truth assignment [True, None, True, None, None, False, True, None, True, None, True, None, False, None, None, False] 

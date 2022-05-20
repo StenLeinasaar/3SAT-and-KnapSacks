@@ -1,0 +1,308 @@
+DPLL test results
+The median runTime was 0.03 seconds. 
+ The minimum time was 0.02 seconds. 
+ The max time was 0.169 seconds. 
+ On average it took 0.032 seconds per instance 
+For test 0. The clauses satisfied were 415
+Runtime was 0.028440237045288086
+The Truth assignment [None, None, None, True, False, True, None, True, None, False, True, True, None, False, None, None] 
+For test 1. The clauses satisfied were 476
+Runtime was 0.037622928619384766
+The Truth assignment [None, None, False, None, False, True, None, False, True, False, None, True, True, None, False, False] 
+For test 2. The clauses satisfied were 487
+Runtime was 0.030000686645507812
+The Truth assignment [True, None, False, None, False, None, None, False, True, None, False, None, False, None, True, True] 
+For test 3. The clauses satisfied were 551
+Runtime was 0.030458688735961914
+The Truth assignment [True, False, None, True, True, None, True, False, False, None, True, False, None, True, True, False] 
+For test 4. The clauses satisfied were 406
+Runtime was 0.027717113494873047
+The Truth assignment [None, None, None, None, True, None, False, True, True, None, False, False, None, None, False, None] 
+For test 5. The clauses satisfied were 431
+Runtime was 0.031330108642578125
+The Truth assignment [True, None, True, True, None, None, True, False, None, None, None, False, False, None, False, None] 
+For test 6. The clauses satisfied were 459
+Runtime was 0.028872966766357422
+The Truth assignment [None, True, True, True, None, True, True, False, None, False, None, None, False, None, None, False] 
+For test 7. The clauses satisfied were 328
+Runtime was 0.026999950408935547
+The Truth assignment [None, None, None, None, False, None, False, True, None, None, None, False, False, None, False, None] 
+For test 8. The clauses satisfied were 512
+Runtime was 0.03013777732849121
+The Truth assignment [None, True, False, False, False, True, False, None, True, None, True, None, True, True, False, None] 
+For test 9. The clauses satisfied were 461
+Runtime was 0.028078079223632812
+The Truth assignment [True, None, True, None, False, False, True, False, None, None, True, True, None, None, None, None] 
+For test 10. The clauses satisfied were 574
+Runtime was 0.03157615661621094
+The Truth assignment [True, True, False, True, None, False, False, True, False, False, True, True, False, None, None, True] 
+For test 11. The clauses satisfied were 594
+Runtime was 0.030573606491088867
+The Truth assignment [True, None, True, True, False, None, False, False, False, True, False, True, True, False, True, None] 
+For test 12. The clauses satisfied were 284
+Runtime was 0.02388477325439453
+The Truth assignment [None, None, False, None, True, None, None, None, True, None, False, None, None, None, None, True] 
+For test 13. The clauses satisfied were 522
+Runtime was 0.02994513511657715
+The Truth assignment [None, None, False, False, True, False, False, False, None, False, False, None, None, False, True, False] 
+For test 14. The clauses satisfied were 281
+Runtime was 0.024231910705566406
+The Truth assignment [None, None, None, None, True, None, None, False, False, None, None, None, None, None, False, True] 
+For test 15. The clauses satisfied were 509
+Runtime was 0.028436899185180664
+The Truth assignment [None, False, True, False, True, True, True, False, True, False, True, None, False, None, None, None] 
+For test 16. The clauses satisfied were 457
+Runtime was 0.028564929962158203
+The Truth assignment [None, False, None, None, None, None, True, None, False, True, False, True, False, None, True, True] 
+For test 17. The clauses satisfied were 603
+Runtime was 0.03217291831970215
+The Truth assignment [True, True, True, False, False, False, None, True, False, True, False, True, False, False, True, None] 
+For test 18. The clauses satisfied were 476
+Runtime was 0.029583215713500977
+The Truth assignment [None, None, None, False, None, False, False, None, False, True, False, False, True, None, False, False] 
+For test 19. The clauses satisfied were 495
+Runtime was 0.02993178367614746
+The Truth assignment [True, True, None, None, None, None, None, False, False, True, True, False, True, True, None, None] 
+For test 20. The clauses satisfied were 576
+Runtime was 0.032753944396972656
+The Truth assignment [True, True, True, True, True, False, False, False, None, None, None, True, False, True, False, True] 
+For test 21. The clauses satisfied were 512
+Runtime was 0.027539968490600586
+The Truth assignment [True, None, None, None, None, True, False, False, True, True, None, True, True, True, False, None] 
+For test 22. The clauses satisfied were 569
+Runtime was 0.03338909149169922
+The Truth assignment [True, False, None, False, None, True, False, False, True, False, True, None, False, True, None, True] 
+For test 23. The clauses satisfied were 595
+Runtime was 0.030277013778686523
+The Truth assignment [True, None, True, False, False, False, True, True, True, False, True, False, False, None, None, False] 
+For test 24. The clauses satisfied were 484
+Runtime was 0.028168916702270508
+The Truth assignment [True, False, None, False, False, None, None, False, None, False, None, None, False, False, None, False] 
+For test 25. The clauses satisfied were 381
+Runtime was 0.025398969650268555
+The Truth assignment [True, None, True, None, None, None, False, None, None, False, True, None, None, False, None, None] 
+For test 26. The clauses satisfied were 596
+Runtime was 0.029085159301757812
+The Truth assignment [True, False, True, True, False, False, False, False, True, True, False, False, False, False, None, None] 
+For test 27. The clauses satisfied were 616
+Runtime was 0.03140902519226074
+The Truth assignment [True, True, False, None, True, False, True, True, None, False, True, False, False, True, False, True] 
+For test 28. The clauses satisfied were 552
+Runtime was 0.029479026794433594
+The Truth assignment [True, False, False, None, True, True, None, False, False, True, True, None, True, False, None, False] 
+For test 29. The clauses satisfied were 439
+Runtime was 0.029640913009643555
+The Truth assignment [None, None, False, None, True, True, True, None, True, None, None, None, True, False, None, True] 
+For test 30. The clauses satisfied were 195
+Runtime was 0.01950812339782715
+The Truth assignment [None, None, None, None, None, None, False, None, None, None, False, None, True, None, None, None] 
+For test 31. The clauses satisfied were 483
+Runtime was 0.028654098510742188
+The Truth assignment [None, True, False, None, True, True, True, False, False, True, True, None, None, None, None, True] 
+For test 32. The clauses satisfied were 584
+Runtime was 0.029057979583740234
+The Truth assignment [True, True, None, True, False, True, False, True, False, True, True, False, True, True, None, None] 
+For test 33. The clauses satisfied were 485
+Runtime was 0.030039072036743164
+The Truth assignment [None, None, False, None, True, False, False, True, True, True, True, False, None, None, None, False] 
+For test 34. The clauses satisfied were 546
+Runtime was 0.03017711639404297
+The Truth assignment [True, True, False, True, False, False, True, False, False, False, None, False, None, None, None, None] 
+For test 35. The clauses satisfied were 291
+Runtime was 0.022494077682495117
+The Truth assignment [True, False, None, None, True, None, None, None, None, None, None, False, None, None, None, None] 
+For test 36. The clauses satisfied were 514
+Runtime was 0.028650999069213867
+The Truth assignment [None, None, True, False, None, None, False, False, True, None, False, False, True, False, None, False] 
+For test 37. The clauses satisfied were 567
+Runtime was 0.030540943145751953
+The Truth assignment [True, None, None, False, False, False, True, True, True, False, True, True, True, None, False, True] 
+For test 38. The clauses satisfied were 410
+Runtime was 0.02790975570678711
+The Truth assignment [True, False, True, None, None, None, None, True, True, None, False, None, None, True, None, None] 
+For test 39. The clauses satisfied were 252
+Runtime was 0.0235440731048584
+The Truth assignment [None, None, None, None, None, None, True, False, None, None, False, True, None, None, None, None] 
+For test 40. The clauses satisfied were 343
+Runtime was 0.030107975006103516
+The Truth assignment [None, None, None, False, True, None, False, False, None, None, False, None, False, None, None, None] 
+For test 41. The clauses satisfied were 469
+Runtime was 0.03106093406677246
+The Truth assignment [True, False, None, False, True, False, True, True, None, None, True, None, False, None, None, None] 
+For test 42. The clauses satisfied were 528
+Runtime was 0.029721975326538086
+The Truth assignment [True, False, True, None, True, False, False, True, None, True, None, None, None, True, True, False] 
+For test 43. The clauses satisfied were 521
+Runtime was 0.028831005096435547
+The Truth assignment [True, True, True, None, True, False, False, False, False, True, None, None, None, True, True, None] 
+For test 44. The clauses satisfied were 423
+Runtime was 0.029275178909301758
+The Truth assignment [None, False, False, False, None, None, None, True, True, False, True, True, None, None, None, None] 
+For test 45. The clauses satisfied were 292
+Runtime was 0.021658897399902344
+The Truth assignment [True, False, None, None, None, None, None, None, None, None, None, True, None, True, None, None] 
+For test 46. The clauses satisfied were 531
+Runtime was 0.027820825576782227
+The Truth assignment [True, None, True, None, True, None, True, False, None, None, None, False, True, True, False, True] 
+For test 47. The clauses satisfied were 327
+Runtime was 0.02787923812866211
+The Truth assignment [None, True, False, None, True, None, None, False, None, None, False, None, False, None, None, None] 
+For test 48. The clauses satisfied were 445
+Runtime was 0.02783799171447754
+The Truth assignment [True, None, None, False, None, None, None, True, None, False, False, None, False, True, False, None] 
+For test 49. The clauses satisfied were 491
+Runtime was 0.030425071716308594
+The Truth assignment [True, False, False, None, False, True, True, None, True, None, None, None, None, False, True, False] 
+For test 50. The clauses satisfied were 326
+Runtime was 0.031636953353881836
+The Truth assignment [None, True, False, True, None, None, None, None, None, True, None, False, None, False, None, None] 
+For test 51. The clauses satisfied were 545
+Runtime was 0.02977895736694336
+The Truth assignment [None, True, True, False, False, False, None, False, False, None, None, True, False, True, False, True] 
+For test 52. The clauses satisfied were 593
+Runtime was 0.030338048934936523
+The Truth assignment [True, False, True, None, False, True, False, None, True, True, True, False, True, False, False, None] 
+For test 53. The clauses satisfied were 603
+Runtime was 0.030709028244018555
+The Truth assignment [True, False, True, True, True, True, False, False, None, False, False, True, None, False, None, False] 
+For test 54. The clauses satisfied were 414
+Runtime was 0.031295061111450195
+The Truth assignment [True, False, True, True, None, None, None, None, False, True, None, None, False, None, None, None] 
+For test 55. The clauses satisfied were 546
+Runtime was 0.030552148818969727
+The Truth assignment [True, None, None, False, True, False, True, None, False, None, False, True, True, True, False, True] 
+For test 56. The clauses satisfied were 515
+Runtime was 0.02788376808166504
+The Truth assignment [None, True, True, None, None, True, True, True, None, False, False, False, False, None, False, True] 
+For test 57. The clauses satisfied were 507
+Runtime was 0.029954195022583008
+The Truth assignment [None, True, True, True, False, False, True, None, False, True, False, False, False, None, None, None] 
+For test 58. The clauses satisfied were 442
+Runtime was 0.0289459228515625
+The Truth assignment [True, None, False, None, True, None, True, True, None, None, None, False, True, False, None, None] 
+For test 59. The clauses satisfied were 605
+Runtime was 0.0301971435546875
+The Truth assignment [True, False, True, True, True, None, True, False, True, True, False, True, False, True, None, True] 
+For test 60. The clauses satisfied were 344
+Runtime was 0.023453950881958008
+The Truth assignment [True, None, None, False, True, None, None, None, None, None, None, None, True, None, None, True] 
+For test 61. The clauses satisfied were 414
+Runtime was 0.03164505958557129
+The Truth assignment [None, True, None, None, None, None, True, None, True, None, True, False, None, False, False, True] 
+For test 62. The clauses satisfied were 367
+Runtime was 0.05346512794494629
+The Truth assignment [None, True, None, False, None, None, False, True, None, True, False, None, None, None, True, None] 
+For test 63. The clauses satisfied were 407
+Runtime was 0.027445077896118164
+The Truth assignment [True, False, False, None, False, None, None, True, None, None, None, None, True, None, False, None] 
+For test 64. The clauses satisfied were 417
+Runtime was 0.02931499481201172
+The Truth assignment [None, False, False, None, None, True, True, None, True, False, None, False, None, True, None, None] 
+For test 65. The clauses satisfied were 550
+Runtime was 0.03069782257080078
+The Truth assignment [True, True, False, True, None, None, False, True, True, None, None, False, True, False, False, False] 
+For test 66. The clauses satisfied were 551
+Runtime was 0.032289981842041016
+The Truth assignment [None, False, False, False, False, False, None, True, True, None, True, None, True, True, False, True] 
+For test 67. The clauses satisfied were 294
+Runtime was 0.023311138153076172
+The Truth assignment [True, False, None, None, None, None, None, None, None, None, False, None, False, None, None, None] 
+For test 68. The clauses satisfied were 451
+Runtime was 0.02773904800415039
+The Truth assignment [True, True, None, True, False, None, True, None, None, False, None, True, True, None, None, None] 
+For test 69. The clauses satisfied were 343
+Runtime was 0.03309011459350586
+The Truth assignment [True, True, False, None, None, None, None, None, None, None, None, True, None, True, None, None] 
+For test 70. The clauses satisfied were 375
+Runtime was 0.09477996826171875
+The Truth assignment [None, True, None, None, None, False, None, None, None, True, None, None, False, False, True, True] 
+For test 71. The clauses satisfied were 231
+Runtime was 0.03917384147644043
+The Truth assignment [None, None, None, None, None, True, None, None, None, None, None, None, False, None, True, True] 
+For test 72. The clauses satisfied were 426
+Runtime was 0.0416569709777832
+The Truth assignment [None, False, True, None, None, True, True, None, False, False, False, None, False, None, None, None] 
+For test 73. The clauses satisfied were 478
+Runtime was 0.03322315216064453
+The Truth assignment [True, True, None, False, None, True, False, None, None, None, None, None, None, False, True, True] 
+For test 74. The clauses satisfied were 487
+Runtime was 0.029215335845947266
+The Truth assignment [True, True, None, True, False, None, False, True, None, None, True, True, None, None, None, True] 
+For test 75. The clauses satisfied were 542
+Runtime was 0.032935380935668945
+The Truth assignment [True, False, None, False, True, True, True, False, None, None, None, None, False, True, False, False] 
+For test 76. The clauses satisfied were 473
+Runtime was 0.030617952346801758
+The Truth assignment [None, False, True, False, None, True, None, True, None, True, True, True, None, True, None, False] 
+For test 77. The clauses satisfied were 495
+Runtime was 0.029855012893676758
+The Truth assignment [True, True, True, True, False, None, None, None, True, None, None, False, None, False, None, True] 
+For test 78. The clauses satisfied were 572
+Runtime was 0.03197216987609863
+The Truth assignment [True, True, False, False, True, False, True, None, None, False, None, None, False, True, True, True] 
+For test 79. The clauses satisfied were 412
+Runtime was 0.028827905654907227
+The Truth assignment [True, None, False, False, None, None, None, None, False, None, False, None, False, None, True, None] 
+For test 80. The clauses satisfied were 412
+Runtime was 0.03700590133666992
+The Truth assignment [None, False, False, True, None, None, False, None, None, True, False, False, None, False, None, None] 
+For test 81. The clauses satisfied were 443
+Runtime was 0.028074264526367188
+The Truth assignment [True, False, None, None, None, False, True, True, None, True, True, None, None, False, None, None] 
+For test 82. The clauses satisfied were 597
+Runtime was 0.04131603240966797
+The Truth assignment [True, False, False, None, False, True, None, False, True, False, False, True, False, False, True, False] 
+For test 83. The clauses satisfied were 469
+Runtime was 0.03751993179321289
+The Truth assignment [None, False, None, True, True, True, None, False, True, True, True, False, False, None, None, None] 
+For test 84. The clauses satisfied were 523
+Runtime was 0.16929888725280762
+The Truth assignment [None, None, None, True, False, None, True, False, None, False, False, True, False, True, False, True] 
+For test 85. The clauses satisfied were 541
+Runtime was 0.03300929069519043
+The Truth assignment [True, True, None, None, False, False, False, None, False, True, False, False, True, None, None, True] 
+For test 86. The clauses satisfied were 593
+Runtime was 0.03212690353393555
+The Truth assignment [True, True, None, True, True, None, None, False, True, True, True, False, True, True, False, False] 
+For test 87. The clauses satisfied were 507
+Runtime was 0.03322124481201172
+The Truth assignment [True, True, None, None, True, False, None, False, None, True, False, None, None, True, True, True] 
+For test 88. The clauses satisfied were 483
+Runtime was 0.03266000747680664
+The Truth assignment [True, False, None, False, None, True, True, False, None, None, True, None, None, False, False, None] 
+For test 89. The clauses satisfied were 608
+Runtime was 0.03233003616333008
+The Truth assignment [True, True, True, True, False, False, False, True, None, None, False, False, None, True, True, True] 
+For test 90. The clauses satisfied were 626
+Runtime was 0.038518667221069336
+The Truth assignment [True, False, False, False, False, False, True, False, False, False, False, False, True, True, False, True] 
+For test 91. The clauses satisfied were 493
+Runtime was 0.033747196197509766
+The Truth assignment [None, None, False, False, None, False, True, False, True, True, False, None, False, None, None, False] 
+For test 92. The clauses satisfied were 244
+Runtime was 0.025196075439453125
+The Truth assignment [None, None, False, True, None, False, None, None, None, None, True, None, None, None, None, None] 
+For test 93. The clauses satisfied were 528
+Runtime was 0.03126811981201172
+The Truth assignment [True, None, False, False, True, None, True, None, True, False, False, None, None, False, True, None] 
+For test 94. The clauses satisfied were 427
+Runtime was 0.03049302101135254
+The Truth assignment [None, None, False, True, None, True, True, True, True, None, False, True, None, None, None, None] 
+For test 95. The clauses satisfied were 560
+Runtime was 0.03325796127319336
+The Truth assignment [None, False, True, False, False, None, False, True, False, False, True, False, False, True, False, False] 
+For test 96. The clauses satisfied were 470
+Runtime was 0.03138303756713867
+The Truth assignment [True, None, False, None, None, True, True, False, None, None, False, None, True, False, False, None] 
+For test 97. The clauses satisfied were 472
+Runtime was 0.029080867767333984
+The Truth assignment [True, None, None, True, None, None, False, True, None, True, None, True, True, False, None, False] 
+For test 98. The clauses satisfied were 445
+Runtime was 0.033074140548706055
+The Truth assignment [None, None, False, True, None, True, False, True, True, None, None, None, True, False, None, True] 
+For test 99. The clauses satisfied were 609
+Runtime was 0.03277301788330078
+The Truth assignment [True, False, False, False, None, True, True, None, True, False, None, True, False, False, True, False] 
+For test 100. The clauses satisfied were 425
+Runtime was 0.02751922607421875
+The Truth assignment [True, False, None, None, False, True, None, False, None, True, False, None, None, None, None, None] 

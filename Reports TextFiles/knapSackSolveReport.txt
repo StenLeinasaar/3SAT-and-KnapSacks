@@ -1,0 +1,990 @@
+The median runtime of Dynamic Programming knapsack algorithm was 0.572 seconds. 
+The maximum runtime of the algorithm: 1.5 seconds. 
+ The minimum runtime: 0.068 seconds. 
+The average runtime of the algorithm: 0.617 seconds. 
+Here are all the optimal solutions: 
+The optimal solution for a test 0 was 24217 with the weight 120.
+The optimal solution for a test 1 was 25377 with the weight 140.
+The optimal solution for a test 2 was 24334 with the weight 160.
+The optimal solution for a test 3 was 26257 with the weight 180.
+The optimal solution for a test 4 was 26464 with the weight 200.
+The optimal solution for a test 5 was 24457 with the weight 220.
+The optimal solution for a test 6 was 25199 with the weight 240.
+The optimal solution for a test 7 was 24739 with the weight 260.
+The optimal solution for a test 8 was 24431 with the weight 280.
+The optimal solution for a test 9 was 23307 with the weight 300.
+The optimal solution for a test 10 was 25523 with the weight 320.
+The optimal solution for a test 11 was 23870 with the weight 340.
+The optimal solution for a test 12 was 25086 with the weight 360.
+The optimal solution for a test 13 was 24961 with the weight 380.
+The optimal solution for a test 14 was 25823 with the weight 400.
+The optimal solution for a test 15 was 25552 with the weight 420.
+The optimal solution for a test 16 was 25928 with the weight 440.
+The optimal solution for a test 17 was 25892 with the weight 460.
+The optimal solution for a test 18 was 24633 with the weight 480.
+The optimal solution for a test 19 was 25226 with the weight 500.
+The optimal solution for a test 20 was 25134 with the weight 520.
+The optimal solution for a test 21 was 25889 with the weight 540.
+The optimal solution for a test 22 was 25970 with the weight 560.
+The optimal solution for a test 23 was 26817 with the weight 580.
+The optimal solution for a test 24 was 23837 with the weight 600.
+The optimal solution for a test 25 was 24408 with the weight 620.
+The optimal solution for a test 26 was 25289 with the weight 640.
+The optimal solution for a test 27 was 26230 with the weight 660.
+The optimal solution for a test 28 was 25744 with the weight 680.
+The optimal solution for a test 29 was 25849 with the weight 700.
+The optimal solution for a test 30 was 25164 with the weight 720.
+The optimal solution for a test 31 was 25332 with the weight 740.
+The optimal solution for a test 32 was 25747 with the weight 760.
+The optimal solution for a test 33 was 25767 with the weight 780.
+The optimal solution for a test 34 was 25754 with the weight 800.
+The optimal solution for a test 35 was 25134 with the weight 820.
+The optimal solution for a test 36 was 26700 with the weight 840.
+The optimal solution for a test 37 was 24935 with the weight 860.
+The optimal solution for a test 38 was 25431 with the weight 880.
+The optimal solution for a test 39 was 25123 with the weight 900.
+The optimal solution for a test 40 was 25358 with the weight 920.
+The optimal solution for a test 41 was 24336 with the weight 940.
+The optimal solution for a test 42 was 25835 with the weight 960.
+The optimal solution for a test 43 was 26063 with the weight 980.
+The optimal solution for a test 44 was 25609 with the weight 1000.
+The optimal solution for a test 45 was 25157 with the weight 1020.
+The optimal solution for a test 46 was 25275 with the weight 1040.
+The optimal solution for a test 47 was 26136 with the weight 1060.
+The optimal solution for a test 48 was 24994 with the weight 1080.
+The optimal solution for a test 49 was 24756 with the weight 1100.
+The optimal solution for a test 50 was 26075 with the weight 1120.
+The optimal solution for a test 51 was 25095 with the weight 1140.
+The optimal solution for a test 52 was 24880 with the weight 1160.
+The optimal solution for a test 53 was 25783 with the weight 1180.
+The optimal solution for a test 54 was 25158 with the weight 1200.
+The optimal solution for a test 55 was 25054 with the weight 1220.
+The optimal solution for a test 56 was 24371 with the weight 1240.
+The optimal solution for a test 57 was 25674 with the weight 1260.
+The optimal solution for a test 58 was 26434 with the weight 1280.
+The optimal solution for a test 59 was 25812 with the weight 1300.
+The optimal solution for a test 60 was 25047 with the weight 1320.
+The optimal solution for a test 61 was 25852 with the weight 1340.
+The optimal solution for a test 62 was 25740 with the weight 1360.
+The optimal solution for a test 63 was 25452 with the weight 1380.
+The optimal solution for a test 64 was 25832 with the weight 1400.
+The optimal solution for a test 65 was 24267 with the weight 1420.
+The optimal solution for a test 66 was 25111 with the weight 1440.
+The optimal solution for a test 67 was 24539 with the weight 1460.
+The optimal solution for a test 68 was 24788 with the weight 1480.
+The optimal solution for a test 69 was 25816 with the weight 1500.
+The optimal solution for a test 70 was 25405 with the weight 1520.
+The optimal solution for a test 71 was 25350 with the weight 1540.
+The optimal solution for a test 72 was 24763 with the weight 1560.
+The optimal solution for a test 73 was 24017 with the weight 1580.
+The optimal solution for a test 74 was 24744 with the weight 1600.
+The optimal solution for a test 75 was 24469 with the weight 1620.
+The optimal solution for a test 76 was 26363 with the weight 1640.
+The optimal solution for a test 77 was 25714 with the weight 1660.
+The optimal solution for a test 78 was 25391 with the weight 1680.
+The optimal solution for a test 79 was 25423 with the weight 1700.
+The optimal solution for a test 80 was 25708 with the weight 1720.
+The optimal solution for a test 81 was 26319 with the weight 1740.
+The optimal solution for a test 82 was 26546 with the weight 1760.
+The optimal solution for a test 83 was 25805 with the weight 1780.
+The optimal solution for a test 84 was 25381 with the weight 1800.
+The optimal solution for a test 85 was 25729 with the weight 1820.
+The optimal solution for a test 86 was 25675 with the weight 1840.
+The optimal solution for a test 87 was 24387 with the weight 1860.
+The optimal solution for a test 88 was 24182 with the weight 1880.
+The optimal solution for a test 89 was 25862 with the weight 1900.
+The optimal solution for a test 90 was 24351 with the weight 1920.
+The optimal solution for a test 91 was 25321 with the weight 1940.
+The optimal solution for a test 92 was 25384 with the weight 1960.
+The optimal solution for a test 93 was 24497 with the weight 1980.
+The optimal solution for a test 94 was 24867 with the weight 2000.
+The optimal solution for a test 95 was 26998 with the weight 2020.
+The optimal solution for a test 96 was 24130 with the weight 2040.
+The optimal solution for a test 97 was 25769 with the weight 2060.
+The optimal solution for a test 98 was 25553 with the weight 2080.
+The optimal solution for a test 99 was 26094 with the weight 2100.
+The optimal solution for a test 100 was 25653 with the weight 2120.
+############################### 
+ 
+The median runtime of ModifiedGreedy knapsack algorithm was 0.017 seconds. 
+The maximum runtime of the algorithm was 0.046 seconds and the minimum was 0.012 seconds. 
+The average runtime of the algorithm was 0.018 seconds. 
+Here are all the optimal solutions: 
+ For instance 0  Optimal solution: 24217 	 Actually was: 1844 with the weight 120
+ For instance 1  Optimal solution: 25377 	 Actually was: 2283 with the weight 140
+ For instance 2  Optimal solution: 24334 	 Actually was: 2141 with the weight 160
+ For instance 3  Optimal solution: 26257 	 Actually was: 2967 with the weight 180
+ For instance 4  Optimal solution: 26464 	 Actually was: 2941 with the weight 200
+ For instance 5  Optimal solution: 24457 	 Actually was: 2727 with the weight 220
+ For instance 6  Optimal solution: 25199 	 Actually was: 3382 with the weight 240
+ For instance 7  Optimal solution: 24739 	 Actually was: 2594 with the weight 260
+ For instance 8  Optimal solution: 24431 	 Actually was: 3524 with the weight 280
+ For instance 9  Optimal solution: 23307 	 Actually was: 3056 with the weight 300
+ For instance 10  Optimal solution: 25523 	 Actually was: 3766 with the weight 320
+ For instance 11  Optimal solution: 23870 	 Actually was: 3527 with the weight 340
+ For instance 12  Optimal solution: 25086 	 Actually was: 3456 with the weight 360
+ For instance 13  Optimal solution: 24961 	 Actually was: 3564 with the weight 380
+ For instance 14  Optimal solution: 25823 	 Actually was: 4404 with the weight 400
+ For instance 15  Optimal solution: 25552 	 Actually was: 4691 with the weight 420
+ For instance 16  Optimal solution: 25928 	 Actually was: 5592 with the weight 440
+ For instance 17  Optimal solution: 25892 	 Actually was: 4635 with the weight 460
+ For instance 18  Optimal solution: 24633 	 Actually was: 4837 with the weight 480
+ For instance 19  Optimal solution: 25226 	 Actually was: 4395 with the weight 500
+ For instance 20  Optimal solution: 25134 	 Actually was: 4858 with the weight 520
+ For instance 21  Optimal solution: 25889 	 Actually was: 5453 with the weight 540
+ For instance 22  Optimal solution: 25970 	 Actually was: 5180 with the weight 560
+ For instance 23  Optimal solution: 26817 	 Actually was: 4796 with the weight 580
+ For instance 24  Optimal solution: 23837 	 Actually was: 5306 with the weight 600
+ For instance 25  Optimal solution: 24408 	 Actually was: 5215 with the weight 620
+ For instance 26  Optimal solution: 25289 	 Actually was: 5348 with the weight 640
+ For instance 27  Optimal solution: 26230 	 Actually was: 5452 with the weight 660
+ For instance 28  Optimal solution: 25744 	 Actually was: 5095 with the weight 680
+ For instance 29  Optimal solution: 25849 	 Actually was: 5457 with the weight 700
+ For instance 30  Optimal solution: 25164 	 Actually was: 5997 with the weight 720
+ For instance 31  Optimal solution: 25332 	 Actually was: 5712 with the weight 740
+ For instance 32  Optimal solution: 25747 	 Actually was: 5133 with the weight 760
+ For instance 33  Optimal solution: 25767 	 Actually was: 5932 with the weight 780
+ For instance 34  Optimal solution: 25754 	 Actually was: 5706 with the weight 800
+ For instance 35  Optimal solution: 25134 	 Actually was: 5568 with the weight 820
+ For instance 36  Optimal solution: 26700 	 Actually was: 6414 with the weight 840
+ For instance 37  Optimal solution: 24935 	 Actually was: 6813 with the weight 860
+ For instance 38  Optimal solution: 25431 	 Actually was: 6007 with the weight 880
+ For instance 39  Optimal solution: 25123 	 Actually was: 6331 with the weight 900
+ For instance 40  Optimal solution: 25358 	 Actually was: 6732 with the weight 920
+ For instance 41  Optimal solution: 24336 	 Actually was: 5845 with the weight 940
+ For instance 42  Optimal solution: 25835 	 Actually was: 7026 with the weight 960
+ For instance 43  Optimal solution: 26063 	 Actually was: 6768 with the weight 980
+ For instance 44  Optimal solution: 25609 	 Actually was: 6170 with the weight 1000
+ For instance 45  Optimal solution: 25157 	 Actually was: 6875 with the weight 1020
+ For instance 46  Optimal solution: 25275 	 Actually was: 6706 with the weight 1040
+ For instance 47  Optimal solution: 26136 	 Actually was: 6836 with the weight 1060
+ For instance 48  Optimal solution: 24994 	 Actually was: 6628 with the weight 1080
+ For instance 49  Optimal solution: 24756 	 Actually was: 6743 with the weight 1100
+ For instance 50  Optimal solution: 26075 	 Actually was: 6857 with the weight 1120
+ For instance 51  Optimal solution: 25095 	 Actually was: 7189 with the weight 1140
+ For instance 52  Optimal solution: 24880 	 Actually was: 6825 with the weight 1160
+ For instance 53  Optimal solution: 25783 	 Actually was: 6756 with the weight 1180
+ For instance 54  Optimal solution: 25158 	 Actually was: 7452 with the weight 1200
+ For instance 55  Optimal solution: 25054 	 Actually was: 7432 with the weight 1220
+ For instance 56  Optimal solution: 24371 	 Actually was: 6942 with the weight 1240
+ For instance 57  Optimal solution: 25674 	 Actually was: 7797 with the weight 1260
+ For instance 58  Optimal solution: 26434 	 Actually was: 7081 with the weight 1280
+ For instance 59  Optimal solution: 25812 	 Actually was: 7490 with the weight 1300
+ For instance 60  Optimal solution: 25047 	 Actually was: 7343 with the weight 1320
+ For instance 61  Optimal solution: 25852 	 Actually was: 7983 with the weight 1340
+ For instance 62  Optimal solution: 25740 	 Actually was: 8206 with the weight 1360
+ For instance 63  Optimal solution: 25452 	 Actually was: 7965 with the weight 1380
+ For instance 64  Optimal solution: 25832 	 Actually was: 8332 with the weight 1400
+ For instance 65  Optimal solution: 24267 	 Actually was: 7869 with the weight 1420
+ For instance 66  Optimal solution: 25111 	 Actually was: 8840 with the weight 1440
+ For instance 67  Optimal solution: 24539 	 Actually was: 8480 with the weight 1460
+ For instance 68  Optimal solution: 24788 	 Actually was: 7713 with the weight 1480
+ For instance 69  Optimal solution: 25816 	 Actually was: 8652 with the weight 1500
+ For instance 70  Optimal solution: 25405 	 Actually was: 8213 with the weight 1520
+ For instance 71  Optimal solution: 25350 	 Actually was: 8065 with the weight 1540
+ For instance 72  Optimal solution: 24763 	 Actually was: 7828 with the weight 1560
+ For instance 73  Optimal solution: 24017 	 Actually was: 7647 with the weight 1580
+ For instance 74  Optimal solution: 24744 	 Actually was: 8199 with the weight 1600
+ For instance 75  Optimal solution: 24469 	 Actually was: 8415 with the weight 1620
+ For instance 76  Optimal solution: 26363 	 Actually was: 9287 with the weight 1640
+ For instance 77  Optimal solution: 25714 	 Actually was: 8114 with the weight 1660
+ For instance 78  Optimal solution: 25391 	 Actually was: 9057 with the weight 1680
+ For instance 79  Optimal solution: 25423 	 Actually was: 7779 with the weight 1700
+ For instance 80  Optimal solution: 25708 	 Actually was: 8698 with the weight 1720
+ For instance 81  Optimal solution: 26319 	 Actually was: 8539 with the weight 1740
+ For instance 82  Optimal solution: 26546 	 Actually was: 9328 with the weight 1760
+ For instance 83  Optimal solution: 25805 	 Actually was: 8925 with the weight 1780
+ For instance 84  Optimal solution: 25381 	 Actually was: 8640 with the weight 1800
+ For instance 85  Optimal solution: 25729 	 Actually was: 8873 with the weight 1820
+ For instance 86  Optimal solution: 25675 	 Actually was: 9357 with the weight 1840
+ For instance 87  Optimal solution: 24387 	 Actually was: 9232 with the weight 1860
+ For instance 88  Optimal solution: 24182 	 Actually was: 8338 with the weight 1880
+ For instance 89  Optimal solution: 25862 	 Actually was: 8764 with the weight 1900
+ For instance 90  Optimal solution: 24351 	 Actually was: 9033 with the weight 1920
+ For instance 91  Optimal solution: 25321 	 Actually was: 9658 with the weight 1940
+ For instance 92  Optimal solution: 25384 	 Actually was: 9012 with the weight 1960
+ For instance 93  Optimal solution: 24497 	 Actually was: 9186 with the weight 1980
+ For instance 94  Optimal solution: 24867 	 Actually was: 9456 with the weight 2000
+ For instance 95  Optimal solution: 26998 	 Actually was: 10978 with the weight 2020
+ For instance 96  Optimal solution: 24130 	 Actually was: 8764 with the weight 2040
+ For instance 97  Optimal solution: 25769 	 Actually was: 9876 with the weight 2060
+ For instance 98  Optimal solution: 25553 	 Actually was: 9076 with the weight 2080
+ For instance 99  Optimal solution: 26094 	 Actually was: 10259 with the weight 2100
+ For instance 100  Optimal solution: 25653 	 Actually was: 10661 with the weight 2120
+############################### 
+ 
+The median runtime of Max knapsack algorithm was 28.808 seconds. 
+The maximum runtime of the algorithm was 33.345 seconds and the minimum was 26.139 seconds. 
+The average runtime of the algorithm was 28.989 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 Optimal solution: 24217 	 Actually was: 24204 with the weight 120 
+ For instance 1 Optimal solution: 25377 	 Actually was: 25369 with the weight 140 
+ For instance 2 Optimal solution: 24334 	 Actually was: 24294 with the weight 160 
+ For instance 3 Optimal solution: 26257 	 Actually was: 26220 with the weight 180 
+ For instance 4 Optimal solution: 26464 	 Actually was: 26369 with the weight 200 
+ For instance 5 Optimal solution: 24457 	 Actually was: 24393 with the weight 220 
+ For instance 6 Optimal solution: 25199 	 Actually was: 25101 with the weight 240 
+ For instance 7 Optimal solution: 24739 	 Actually was: 24656 with the weight 260 
+ For instance 8 Optimal solution: 24431 	 Actually was: 24426 with the weight 280 
+ For instance 9 Optimal solution: 23307 	 Actually was: 23208 with the weight 300 
+ For instance 10 Optimal solution: 25523 	 Actually was: 25501 with the weight 320 
+ For instance 11 Optimal solution: 23870 	 Actually was: 23807 with the weight 340 
+ For instance 12 Optimal solution: 25086 	 Actually was: 25062 with the weight 360 
+ For instance 13 Optimal solution: 24961 	 Actually was: 24932 with the weight 380 
+ For instance 14 Optimal solution: 25823 	 Actually was: 25745 with the weight 400 
+ For instance 15 Optimal solution: 25552 	 Actually was: 25523 with the weight 420 
+ For instance 16 Optimal solution: 25928 	 Actually was: 25883 with the weight 440 
+ For instance 17 Optimal solution: 25892 	 Actually was: 25829 with the weight 460 
+ For instance 18 Optimal solution: 24633 	 Actually was: 24616 with the weight 480 
+ For instance 19 Optimal solution: 25226 	 Actually was: 25188 with the weight 500 
+ For instance 20 Optimal solution: 25134 	 Actually was: 25083 with the weight 520 
+ For instance 21 Optimal solution: 25889 	 Actually was: 25796 with the weight 540 
+ For instance 22 Optimal solution: 25970 	 Actually was: 25930 with the weight 560 
+ For instance 23 Optimal solution: 26817 	 Actually was: 26803 with the weight 580 
+ For instance 24 Optimal solution: 23837 	 Actually was: 23738 with the weight 600 
+ For instance 25 Optimal solution: 24408 	 Actually was: 24406 with the weight 620 
+ For instance 26 Optimal solution: 25289 	 Actually was: 25285 with the weight 640 
+ For instance 27 Optimal solution: 26230 	 Actually was: 26130 with the weight 660 
+ For instance 28 Optimal solution: 25744 	 Actually was: 25734 with the weight 680 
+ For instance 29 Optimal solution: 25849 	 Actually was: 25790 with the weight 700 
+ For instance 30 Optimal solution: 25164 	 Actually was: 25161 with the weight 720 
+ For instance 31 Optimal solution: 25332 	 Actually was: 25295 with the weight 740 
+ For instance 32 Optimal solution: 25747 	 Actually was: 25650 with the weight 760 
+ For instance 33 Optimal solution: 25767 	 Actually was: 25736 with the weight 780 
+ For instance 34 Optimal solution: 25754 	 Actually was: 25674 with the weight 800 
+ For instance 35 Optimal solution: 25134 	 Actually was: 25109 with the weight 820 
+ For instance 36 Optimal solution: 26700 	 Actually was: 26617 with the weight 840 
+ For instance 37 Optimal solution: 24935 	 Actually was: 24857 with the weight 860 
+ For instance 38 Optimal solution: 25431 	 Actually was: 25353 with the weight 880 
+ For instance 39 Optimal solution: 25123 	 Actually was: 25077 with the weight 900 
+ For instance 40 Optimal solution: 25358 	 Actually was: 25331 with the weight 920 
+ For instance 41 Optimal solution: 24336 	 Actually was: 24277 with the weight 940 
+ For instance 42 Optimal solution: 25835 	 Actually was: 25789 with the weight 960 
+ For instance 43 Optimal solution: 26063 	 Actually was: 26013 with the weight 980 
+ For instance 44 Optimal solution: 25609 	 Actually was: 25571 with the weight 1000 
+ For instance 45 Optimal solution: 25157 	 Actually was: 25152 with the weight 1020 
+ For instance 46 Optimal solution: 25275 	 Actually was: 25219 with the weight 1040 
+ For instance 47 Optimal solution: 26136 	 Actually was: 26106 with the weight 1060 
+ For instance 48 Optimal solution: 24994 	 Actually was: 24982 with the weight 1080 
+ For instance 49 Optimal solution: 24756 	 Actually was: 24685 with the weight 1100 
+ For instance 50 Optimal solution: 26075 	 Actually was: 26019 with the weight 1120 
+ For instance 51 Optimal solution: 25095 	 Actually was: 25091 with the weight 1140 
+ For instance 52 Optimal solution: 24880 	 Actually was: 24854 with the weight 1160 
+ For instance 53 Optimal solution: 25783 	 Actually was: 25711 with the weight 1180 
+ For instance 54 Optimal solution: 25158 	 Actually was: 25093 with the weight 1200 
+ For instance 55 Optimal solution: 25054 	 Actually was: 24968 with the weight 1220 
+ For instance 56 Optimal solution: 24371 	 Actually was: 24369 with the weight 1240 
+ For instance 57 Optimal solution: 25674 	 Actually was: 25636 with the weight 1260 
+ For instance 58 Optimal solution: 26434 	 Actually was: 26335 with the weight 1280 
+ For instance 59 Optimal solution: 25812 	 Actually was: 25721 with the weight 1300 
+ For instance 60 Optimal solution: 25047 	 Actually was: 25013 with the weight 1320 
+ For instance 61 Optimal solution: 25852 	 Actually was: 25849 with the weight 1340 
+ For instance 62 Optimal solution: 25740 	 Actually was: 25702 with the weight 1360 
+ For instance 63 Optimal solution: 25452 	 Actually was: 25382 with the weight 1380 
+ For instance 64 Optimal solution: 25832 	 Actually was: 25787 with the weight 1400 
+ For instance 65 Optimal solution: 24267 	 Actually was: 24248 with the weight 1420 
+ For instance 66 Optimal solution: 25111 	 Actually was: 25019 with the weight 1440 
+ For instance 67 Optimal solution: 24539 	 Actually was: 24534 with the weight 1460 
+ For instance 68 Optimal solution: 24788 	 Actually was: 24709 with the weight 1480 
+ For instance 69 Optimal solution: 25816 	 Actually was: 25784 with the weight 1500 
+ For instance 70 Optimal solution: 25405 	 Actually was: 25333 with the weight 1520 
+ For instance 71 Optimal solution: 25350 	 Actually was: 25312 with the weight 1540 
+ For instance 72 Optimal solution: 24763 	 Actually was: 24758 with the weight 1560 
+ For instance 73 Optimal solution: 24017 	 Actually was: 23936 with the weight 1580 
+ For instance 74 Optimal solution: 24744 	 Actually was: 24692 with the weight 1600 
+ For instance 75 Optimal solution: 24469 	 Actually was: 24397 with the weight 1620 
+ For instance 76 Optimal solution: 26363 	 Actually was: 26288 with the weight 1640 
+ For instance 77 Optimal solution: 25714 	 Actually was: 25638 with the weight 1660 
+ For instance 78 Optimal solution: 25391 	 Actually was: 25331 with the weight 1680 
+ For instance 79 Optimal solution: 25423 	 Actually was: 25327 with the weight 1700 
+ For instance 80 Optimal solution: 25708 	 Actually was: 25657 with the weight 1720 
+ For instance 81 Optimal solution: 26319 	 Actually was: 26233 with the weight 1740 
+ For instance 82 Optimal solution: 26546 	 Actually was: 26531 with the weight 1760 
+ For instance 83 Optimal solution: 25805 	 Actually was: 25756 with the weight 1780 
+ For instance 84 Optimal solution: 25381 	 Actually was: 25313 with the weight 1800 
+ For instance 85 Optimal solution: 25729 	 Actually was: 25720 with the weight 1820 
+ For instance 86 Optimal solution: 25675 	 Actually was: 25669 with the weight 1840 
+ For instance 87 Optimal solution: 24387 	 Actually was: 24352 with the weight 1860 
+ For instance 88 Optimal solution: 24182 	 Actually was: 24093 with the weight 1880 
+ For instance 89 Optimal solution: 25862 	 Actually was: 25772 with the weight 1900 
+ For instance 90 Optimal solution: 24351 	 Actually was: 24311 with the weight 1920 
+ For instance 91 Optimal solution: 25321 	 Actually was: 25259 with the weight 1940 
+ For instance 92 Optimal solution: 25384 	 Actually was: 25292 with the weight 1960 
+ For instance 93 Optimal solution: 24497 	 Actually was: 24420 with the weight 1980 
+ For instance 94 Optimal solution: 24867 	 Actually was: 24775 with the weight 2000 
+ For instance 95 Optimal solution: 26998 	 Actually was: 26949 with the weight 2020 
+ For instance 96 Optimal solution: 24130 	 Actually was: 24102 with the weight 2040 
+ For instance 97 Optimal solution: 25769 	 Actually was: 25688 with the weight 2060 
+ For instance 98 Optimal solution: 25553 	 Actually was: 25513 with the weight 2080 
+ For instance 99 Optimal solution: 26094 	 Actually was: 25997 with the weight 2100 
+ For instance 100 Optimal solution: 25653 	 Actually was: 25582 with the weight 2120 
+############################### 
+ 
+The median runtime of Approximation knapsack algorithm was 27.946 seconds. 
+The maximum runtime of the algorithm was 33.009 seconds and the minimum was 25.592 seconds. 
+The average runtime of the algorithm was 27.955 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 . Optimal solution: 24217 Actually was: 24204 with the weight 120
+  For instance 1 . Optimal solution: 25377 Actually was: 25369 with the weight 140
+  For instance 2 . Optimal solution: 24334 Actually was: 24294 with the weight 160
+  For instance 3 . Optimal solution: 26257 Actually was: 26220 with the weight 180
+  For instance 4 . Optimal solution: 26464 Actually was: 26369 with the weight 200
+  For instance 5 . Optimal solution: 24457 Actually was: 24393 with the weight 220
+  For instance 6 . Optimal solution: 25199 Actually was: 25101 with the weight 240
+  For instance 7 . Optimal solution: 24739 Actually was: 24656 with the weight 260
+  For instance 8 . Optimal solution: 24431 Actually was: 24426 with the weight 280
+  For instance 9 . Optimal solution: 23307 Actually was: 23208 with the weight 300
+  For instance 10 . Optimal solution: 25523 Actually was: 25501 with the weight 320
+  For instance 11 . Optimal solution: 23870 Actually was: 23807 with the weight 340
+  For instance 12 . Optimal solution: 25086 Actually was: 25062 with the weight 360
+  For instance 13 . Optimal solution: 24961 Actually was: 24932 with the weight 380
+  For instance 14 . Optimal solution: 25823 Actually was: 25745 with the weight 400
+  For instance 15 . Optimal solution: 25552 Actually was: 25523 with the weight 420
+  For instance 16 . Optimal solution: 25928 Actually was: 25883 with the weight 440
+  For instance 17 . Optimal solution: 25892 Actually was: 25829 with the weight 460
+  For instance 18 . Optimal solution: 24633 Actually was: 24616 with the weight 480
+  For instance 19 . Optimal solution: 25226 Actually was: 25188 with the weight 500
+  For instance 20 . Optimal solution: 25134 Actually was: 25083 with the weight 520
+  For instance 21 . Optimal solution: 25889 Actually was: 25796 with the weight 540
+  For instance 22 . Optimal solution: 25970 Actually was: 25930 with the weight 560
+  For instance 23 . Optimal solution: 26817 Actually was: 26803 with the weight 580
+  For instance 24 . Optimal solution: 23837 Actually was: 23738 with the weight 600
+  For instance 25 . Optimal solution: 24408 Actually was: 24406 with the weight 620
+  For instance 26 . Optimal solution: 25289 Actually was: 25285 with the weight 640
+  For instance 27 . Optimal solution: 26230 Actually was: 26130 with the weight 660
+  For instance 28 . Optimal solution: 25744 Actually was: 25734 with the weight 680
+  For instance 29 . Optimal solution: 25849 Actually was: 25790 with the weight 700
+  For instance 30 . Optimal solution: 25164 Actually was: 25161 with the weight 720
+  For instance 31 . Optimal solution: 25332 Actually was: 25295 with the weight 740
+  For instance 32 . Optimal solution: 25747 Actually was: 25650 with the weight 760
+  For instance 33 . Optimal solution: 25767 Actually was: 25736 with the weight 780
+  For instance 34 . Optimal solution: 25754 Actually was: 25674 with the weight 800
+  For instance 35 . Optimal solution: 25134 Actually was: 25109 with the weight 820
+  For instance 36 . Optimal solution: 26700 Actually was: 26617 with the weight 840
+  For instance 37 . Optimal solution: 24935 Actually was: 24857 with the weight 860
+  For instance 38 . Optimal solution: 25431 Actually was: 25353 with the weight 880
+  For instance 39 . Optimal solution: 25123 Actually was: 25077 with the weight 900
+  For instance 40 . Optimal solution: 25358 Actually was: 25331 with the weight 920
+  For instance 41 . Optimal solution: 24336 Actually was: 24277 with the weight 940
+  For instance 42 . Optimal solution: 25835 Actually was: 25789 with the weight 960
+  For instance 43 . Optimal solution: 26063 Actually was: 26013 with the weight 980
+  For instance 44 . Optimal solution: 25609 Actually was: 25571 with the weight 1000
+  For instance 45 . Optimal solution: 25157 Actually was: 25152 with the weight 1020
+  For instance 46 . Optimal solution: 25275 Actually was: 25219 with the weight 1040
+  For instance 47 . Optimal solution: 26136 Actually was: 26106 with the weight 1060
+  For instance 48 . Optimal solution: 24994 Actually was: 24982 with the weight 1080
+  For instance 49 . Optimal solution: 24756 Actually was: 24685 with the weight 1100
+  For instance 50 . Optimal solution: 26075 Actually was: 26019 with the weight 1120
+  For instance 51 . Optimal solution: 25095 Actually was: 25091 with the weight 1140
+  For instance 52 . Optimal solution: 24880 Actually was: 24854 with the weight 1160
+  For instance 53 . Optimal solution: 25783 Actually was: 25711 with the weight 1180
+  For instance 54 . Optimal solution: 25158 Actually was: 25093 with the weight 1200
+  For instance 55 . Optimal solution: 25054 Actually was: 24968 with the weight 1220
+  For instance 56 . Optimal solution: 24371 Actually was: 24369 with the weight 1240
+  For instance 57 . Optimal solution: 25674 Actually was: 25636 with the weight 1260
+  For instance 58 . Optimal solution: 26434 Actually was: 26335 with the weight 1280
+  For instance 59 . Optimal solution: 25812 Actually was: 25721 with the weight 1300
+  For instance 60 . Optimal solution: 25047 Actually was: 25013 with the weight 1320
+  For instance 61 . Optimal solution: 25852 Actually was: 25849 with the weight 1340
+  For instance 62 . Optimal solution: 25740 Actually was: 25702 with the weight 1360
+  For instance 63 . Optimal solution: 25452 Actually was: 25382 with the weight 1380
+  For instance 64 . Optimal solution: 25832 Actually was: 25787 with the weight 1400
+  For instance 65 . Optimal solution: 24267 Actually was: 24248 with the weight 1420
+  For instance 66 . Optimal solution: 25111 Actually was: 25019 with the weight 1440
+  For instance 67 . Optimal solution: 24539 Actually was: 24534 with the weight 1460
+  For instance 68 . Optimal solution: 24788 Actually was: 24709 with the weight 1480
+  For instance 69 . Optimal solution: 25816 Actually was: 25784 with the weight 1500
+  For instance 70 . Optimal solution: 25405 Actually was: 25333 with the weight 1520
+  For instance 71 . Optimal solution: 25350 Actually was: 25312 with the weight 1540
+  For instance 72 . Optimal solution: 24763 Actually was: 24758 with the weight 1560
+  For instance 73 . Optimal solution: 24017 Actually was: 23936 with the weight 1580
+  For instance 74 . Optimal solution: 24744 Actually was: 24692 with the weight 1600
+  For instance 75 . Optimal solution: 24469 Actually was: 24397 with the weight 1620
+  For instance 76 . Optimal solution: 26363 Actually was: 26288 with the weight 1640
+  For instance 77 . Optimal solution: 25714 Actually was: 25638 with the weight 1660
+  For instance 78 . Optimal solution: 25391 Actually was: 25331 with the weight 1680
+  For instance 79 . Optimal solution: 25423 Actually was: 25327 with the weight 1700
+  For instance 80 . Optimal solution: 25708 Actually was: 25657 with the weight 1720
+  For instance 81 . Optimal solution: 26319 Actually was: 26233 with the weight 1740
+  For instance 82 . Optimal solution: 26546 Actually was: 26531 with the weight 1760
+  For instance 83 . Optimal solution: 25805 Actually was: 25756 with the weight 1780
+  For instance 84 . Optimal solution: 25381 Actually was: 25313 with the weight 1800
+  For instance 85 . Optimal solution: 25729 Actually was: 25720 with the weight 1820
+  For instance 86 . Optimal solution: 25675 Actually was: 25669 with the weight 1840
+  For instance 87 . Optimal solution: 24387 Actually was: 24352 with the weight 1860
+  For instance 88 . Optimal solution: 24182 Actually was: 24093 with the weight 1880
+  For instance 89 . Optimal solution: 25862 Actually was: 25772 with the weight 1900
+  For instance 90 . Optimal solution: 24351 Actually was: 24311 with the weight 1920
+  For instance 91 . Optimal solution: 25321 Actually was: 25259 with the weight 1940
+  For instance 92 . Optimal solution: 25384 Actually was: 25292 with the weight 1960
+  For instance 93 . Optimal solution: 24497 Actually was: 24420 with the weight 1980
+  For instance 94 . Optimal solution: 24867 Actually was: 24775 with the weight 2000
+  For instance 95 . Optimal solution: 26998 Actually was: 26949 with the weight 2020
+  For instance 96 . Optimal solution: 24130 Actually was: 24102 with the weight 2040
+  For instance 97 . Optimal solution: 25769 Actually was: 25688 with the weight 2060
+  For instance 98 . Optimal solution: 25553 Actually was: 25513 with the weight 2080
+  For instance 99 . Optimal solution: 26094 Actually was: 25997 with the weight 2100
+  For instance 100 . Optimal solution: 25653 Actually was: 25582 with the weight 2120
+ ############################### 
+ 
+The median runtime of Dynamic Programming knapsack algorithm was 0.064 seconds. 
+The maximum runtime of the algorithm: 0.067 seconds. 
+ The minimum runtime: 0.061 seconds. 
+The average runtime of the algorithm: 0.064 seconds. 
+Here are all the optimal solutions: 
+The optimal solution for a test 0 was 26472 with the weight 120.
+The optimal solution for a test 1 was 25985 with the weight 140.
+############################### 
+ 
+The median runtime of ModifiedGreedy knapsack algorithm was 0.011 seconds. 
+The maximum runtime of the algorithm was 0.011 seconds and the minimum was 0.01 seconds. 
+The average runtime of the algorithm was 0.011 seconds. 
+Here are all the optimal solutions: 
+ For instance 0  Optimal solution: 26472 	 Actually was: 1879 with the weight 120
+ For instance 1  Optimal solution: 25985 	 Actually was: 2644 with the weight 140
+############################### 
+ 
+The median runtime of Max knapsack algorithm was 27.286 seconds. 
+The maximum runtime of the algorithm was 28.216 seconds and the minimum was 26.357 seconds. 
+The average runtime of the algorithm was 27.286 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 Optimal solution: 26472 	 Actually was: 31 with the weight 120 
+ For instance 1 Optimal solution: 25985 	 Actually was: 61 with the weight 140 
+############################### 
+ 
+The median runtime of Approximation knapsack algorithm was 33.79 seconds. 
+The maximum runtime of the algorithm was 35.625 seconds and the minimum was 31.956 seconds. 
+The average runtime of the algorithm was 33.79 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 . Optimal solution: 26472 Actually was: 31 with the weight 120
+  For instance 1 . Optimal solution: 25985 Actually was: 61 with the weight 140
+ ############################### 
+ 
+The median runtime of Dynamic Programming knapsack algorithm was 0.067 seconds. 
+The maximum runtime of the algorithm: 0.068 seconds. 
+ The minimum runtime: 0.067 seconds. 
+The average runtime of the algorithm: 0.067 seconds. 
+Here are all the optimal solutions: 
+The optimal solution for a test 0 was 25484 with the weight 120.
+The optimal solution for a test 1 was 24661 with the weight 140.
+############################### 
+ 
+The median runtime of ModifiedGreedy knapsack algorithm was 0.011 seconds. 
+The maximum runtime of the algorithm was 0.011 seconds and the minimum was 0.011 seconds. 
+The average runtime of the algorithm was 0.011 seconds. 
+Here are all the optimal solutions: 
+ For instance 0  Optimal solution: 25484 	 Actually was: 2281 with the weight 120
+ For instance 1  Optimal solution: 24661 	 Actually was: 2437 with the weight 140
+############################### 
+ 
+The median runtime of Max knapsack algorithm was 26.387 seconds. 
+The maximum runtime of the algorithm was 26.427 seconds and the minimum was 26.348 seconds. 
+The average runtime of the algorithm was 26.387 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 Optimal solution: 25484 	 Actually was: 25463 with the weight 120 
+ For instance 1 Optimal solution: 24661 	 Actually was: 24593 with the weight 140 
+############################### 
+ 
+The median runtime of Approximation knapsack algorithm was 26.881 seconds. 
+The maximum runtime of the algorithm was 27.398 seconds and the minimum was 26.363 seconds. 
+The average runtime of the algorithm was 26.881 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 . Optimal solution: 25484 Actually was: 25463 with the weight 120
+  For instance 1 . Optimal solution: 24661 Actually was: 24593 with the weight 140
+ ############################### 
+ 
+The median runtime of Dynamic Programming knapsack algorithm was 0.002 seconds. 
+The maximum runtime of the algorithm: 0.002 seconds. 
+ The minimum runtime: 0.002 seconds. 
+The average runtime of the algorithm: 0.002 seconds. 
+Here are all the optimal solutions: 
+The optimal solution for a test 0 was 460 with the weight 120.
+The optimal solution for a test 1 was 470 with the weight 140.
+############################### 
+ 
+The median runtime of ModifiedGreedy knapsack algorithm was 0.0 seconds. 
+The maximum runtime of the algorithm was 0.0 seconds and the minimum was 0.0 seconds. 
+The average runtime of the algorithm was 0.0 seconds. 
+Here are all the optimal solutions: 
+ For instance 0  Optimal solution: 460 	 Actually was: 286 with the weight 120
+ For instance 1  Optimal solution: 470 	 Actually was: 333 with the weight 140
+############################### 
+ 
+The median runtime of Max knapsack algorithm was 0.015 seconds. 
+The maximum runtime of the algorithm was 0.019 seconds and the minimum was 0.011 seconds. 
+The average runtime of the algorithm was 0.015 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 Optimal solution: 460 	 Actually was: 434 with the weight 120 
+ For instance 1 Optimal solution: 470 	 Actually was: 462 with the weight 140 
+############################### 
+ 
+The median runtime of Approximation knapsack algorithm was 0.011 seconds. 
+The maximum runtime of the algorithm was 0.013 seconds and the minimum was 0.009 seconds. 
+The average runtime of the algorithm was 0.011 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 . Optimal solution: 460 Actually was: 434 with the weight 120
+  For instance 1 . Optimal solution: 470 Actually was: 462 with the weight 140
+ ############################### 
+ 
+The median runtime of Dynamic Programming knapsack algorithm was 0.002 seconds. 
+The maximum runtime of the algorithm: 0.002 seconds. 
+ The minimum runtime: 0.001 seconds. 
+The average runtime of the algorithm: 0.002 seconds. 
+Here are all the optimal solutions: 
+The optimal solution for a test 0 was 614 with the weight 120.
+The optimal solution for a test 1 was 492 with the weight 140.
+############################### 
+ 
+The median runtime of ModifiedGreedy knapsack algorithm was 0.0 seconds. 
+The maximum runtime of the algorithm was 0.0 seconds and the minimum was 0.0 seconds. 
+The average runtime of the algorithm was 0.0 seconds. 
+Here are all the optimal solutions: 
+ For instance 0  Optimal solution: 614 	 Actually was: 383 with the weight 120
+ For instance 1  Optimal solution: 492 	 Actually was: 235 with the weight 140
+############################### 
+ 
+The median runtime of Max knapsack algorithm was 0.011 seconds. 
+The maximum runtime of the algorithm was 0.012 seconds and the minimum was 0.01 seconds. 
+The average runtime of the algorithm was 0.011 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 Optimal solution: 614 	 Actually was: 578 with the weight 120 
+ For instance 1 Optimal solution: 492 	 Actually was: 490 with the weight 140 
+############################### 
+ 
+The median runtime of Approximation knapsack algorithm was 0.011 seconds. 
+The maximum runtime of the algorithm was 0.012 seconds and the minimum was 0.01 seconds. 
+The average runtime of the algorithm was 0.011 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 . Optimal solution: 614 Actually was: 578 with the weight 120
+  For instance 1 . Optimal solution: 492 Actually was: 490 with the weight 140
+ ############################### 
+ 
+The median runtime of Dynamic Programming knapsack algorithm was 0.201 seconds. 
+The maximum runtime of the algorithm: 0.425 seconds. 
+ The minimum runtime: 0.031 seconds. 
+The average runtime of the algorithm: 0.209 seconds. 
+Here are all the optimal solutions: 
+The optimal solution for a test 0 was 10351 with the weight 120.
+The optimal solution for a test 1 was 10802 with the weight 140.
+The optimal solution for a test 2 was 9861 with the weight 160.
+The optimal solution for a test 3 was 10399 with the weight 180.
+The optimal solution for a test 4 was 10279 with the weight 200.
+The optimal solution for a test 5 was 10550 with the weight 220.
+The optimal solution for a test 6 was 10523 with the weight 240.
+The optimal solution for a test 7 was 10670 with the weight 260.
+The optimal solution for a test 8 was 9968 with the weight 280.
+The optimal solution for a test 9 was 10390 with the weight 300.
+The optimal solution for a test 10 was 10125 with the weight 320.
+The optimal solution for a test 11 was 10236 with the weight 340.
+The optimal solution for a test 12 was 10187 with the weight 360.
+The optimal solution for a test 13 was 10597 with the weight 380.
+The optimal solution for a test 14 was 10387 with the weight 400.
+The optimal solution for a test 15 was 10122 with the weight 420.
+The optimal solution for a test 16 was 10318 with the weight 440.
+The optimal solution for a test 17 was 10158 with the weight 460.
+The optimal solution for a test 18 was 10193 with the weight 480.
+The optimal solution for a test 19 was 10291 with the weight 500.
+The optimal solution for a test 20 was 10395 with the weight 520.
+The optimal solution for a test 21 was 10022 with the weight 540.
+The optimal solution for a test 22 was 10594 with the weight 560.
+The optimal solution for a test 23 was 11031 with the weight 580.
+The optimal solution for a test 24 was 10157 with the weight 600.
+The optimal solution for a test 25 was 9695 with the weight 620.
+The optimal solution for a test 26 was 9765 with the weight 640.
+The optimal solution for a test 27 was 10014 with the weight 660.
+The optimal solution for a test 28 was 10581 with the weight 680.
+The optimal solution for a test 29 was 9835 with the weight 700.
+The optimal solution for a test 30 was 10503 with the weight 720.
+The optimal solution for a test 31 was 9952 with the weight 740.
+The optimal solution for a test 32 was 10424 with the weight 760.
+The optimal solution for a test 33 was 9545 with the weight 780.
+The optimal solution for a test 34 was 10372 with the weight 800.
+The optimal solution for a test 35 was 9774 with the weight 820.
+The optimal solution for a test 36 was 9628 with the weight 840.
+The optimal solution for a test 37 was 9740 with the weight 860.
+The optimal solution for a test 38 was 10653 with the weight 880.
+The optimal solution for a test 39 was 9477 with the weight 900.
+The optimal solution for a test 40 was 10109 with the weight 920.
+The optimal solution for a test 41 was 10869 with the weight 940.
+The optimal solution for a test 42 was 10458 with the weight 960.
+The optimal solution for a test 43 was 9809 with the weight 980.
+The optimal solution for a test 44 was 10726 with the weight 1000.
+The optimal solution for a test 45 was 10198 with the weight 1020.
+The optimal solution for a test 46 was 10794 with the weight 1040.
+The optimal solution for a test 47 was 10246 with the weight 1060.
+The optimal solution for a test 48 was 10143 with the weight 1080.
+The optimal solution for a test 49 was 10317 with the weight 1100.
+The optimal solution for a test 50 was 9931 with the weight 1120.
+The optimal solution for a test 51 was 10163 with the weight 1140.
+The optimal solution for a test 52 was 10446 with the weight 1160.
+The optimal solution for a test 53 was 10106 with the weight 1180.
+The optimal solution for a test 54 was 10287 with the weight 1200.
+The optimal solution for a test 55 was 9443 with the weight 1220.
+The optimal solution for a test 56 was 9627 with the weight 1240.
+The optimal solution for a test 57 was 9771 with the weight 1260.
+The optimal solution for a test 58 was 9834 with the weight 1280.
+The optimal solution for a test 59 was 10198 with the weight 1300.
+The optimal solution for a test 60 was 10649 with the weight 1320.
+The optimal solution for a test 61 was 10087 with the weight 1340.
+The optimal solution for a test 62 was 10210 with the weight 1360.
+The optimal solution for a test 63 was 10737 with the weight 1380.
+The optimal solution for a test 64 was 9855 with the weight 1400.
+The optimal solution for a test 65 was 10324 with the weight 1420.
+The optimal solution for a test 66 was 10379 with the weight 1440.
+The optimal solution for a test 67 was 10237 with the weight 1460.
+The optimal solution for a test 68 was 9764 with the weight 1480.
+The optimal solution for a test 69 was 10135 with the weight 1500.
+The optimal solution for a test 70 was 10115 with the weight 1520.
+The optimal solution for a test 71 was 10352 with the weight 1540.
+The optimal solution for a test 72 was 9501 with the weight 1560.
+The optimal solution for a test 73 was 9999 with the weight 1580.
+The optimal solution for a test 74 was 9902 with the weight 1600.
+The optimal solution for a test 75 was 10807 with the weight 1620.
+The optimal solution for a test 76 was 10621 with the weight 1640.
+The optimal solution for a test 77 was 9284 with the weight 1660.
+The optimal solution for a test 78 was 10400 with the weight 1680.
+The optimal solution for a test 79 was 9380 with the weight 1700.
+The optimal solution for a test 80 was 10388 with the weight 1720.
+The optimal solution for a test 81 was 10989 with the weight 1740.
+The optimal solution for a test 82 was 9988 with the weight 1760.
+The optimal solution for a test 83 was 9909 with the weight 1780.
+The optimal solution for a test 84 was 10404 with the weight 1800.
+The optimal solution for a test 85 was 9058 with the weight 1820.
+The optimal solution for a test 86 was 10561 with the weight 1840.
+The optimal solution for a test 87 was 10983 with the weight 1860.
+The optimal solution for a test 88 was 10095 with the weight 1880.
+The optimal solution for a test 89 was 10297 with the weight 1900.
+The optimal solution for a test 90 was 10783 with the weight 1920.
+The optimal solution for a test 91 was 10321 with the weight 1940.
+The optimal solution for a test 92 was 9789 with the weight 1960.
+The optimal solution for a test 93 was 10266 with the weight 1980.
+The optimal solution for a test 94 was 10450 with the weight 2000.
+The optimal solution for a test 95 was 9840 with the weight 2020.
+The optimal solution for a test 96 was 10204 with the weight 2040.
+The optimal solution for a test 97 was 9556 with the weight 2060.
+The optimal solution for a test 98 was 9969 with the weight 2080.
+The optimal solution for a test 99 was 10793 with the weight 2100.
+The optimal solution for a test 100 was 10196 with the weight 2120.
+############################### 
+ 
+The median runtime of ModifiedGreedy knapsack algorithm was 0.005 seconds. 
+The maximum runtime of the algorithm was 0.028 seconds and the minimum was 0.003 seconds. 
+The average runtime of the algorithm was 0.005 seconds. 
+Here are all the optimal solutions: 
+ For instance 0  Optimal solution: 10351 	 Actually was: 1338 with the weight 120
+ For instance 1  Optimal solution: 10802 	 Actually was: 1998 with the weight 140
+ For instance 2  Optimal solution: 9861 	 Actually was: 1550 with the weight 160
+ For instance 3  Optimal solution: 10399 	 Actually was: 1961 with the weight 180
+ For instance 4  Optimal solution: 10279 	 Actually was: 1898 with the weight 200
+ For instance 5  Optimal solution: 10550 	 Actually was: 2264 with the weight 220
+ For instance 6  Optimal solution: 10523 	 Actually was: 1955 with the weight 240
+ For instance 7  Optimal solution: 10670 	 Actually was: 2224 with the weight 260
+ For instance 8  Optimal solution: 9968 	 Actually was: 2461 with the weight 280
+ For instance 9  Optimal solution: 10390 	 Actually was: 2518 with the weight 300
+ For instance 10  Optimal solution: 10125 	 Actually was: 2358 with the weight 320
+ For instance 11  Optimal solution: 10236 	 Actually was: 2553 with the weight 340
+ For instance 12  Optimal solution: 10187 	 Actually was: 2420 with the weight 360
+ For instance 13  Optimal solution: 10597 	 Actually was: 2944 with the weight 380
+ For instance 14  Optimal solution: 10387 	 Actually was: 2884 with the weight 400
+ For instance 15  Optimal solution: 10122 	 Actually was: 2735 with the weight 420
+ For instance 16  Optimal solution: 10318 	 Actually was: 3222 with the weight 440
+ For instance 17  Optimal solution: 10158 	 Actually was: 3145 with the weight 460
+ For instance 18  Optimal solution: 10193 	 Actually was: 3335 with the weight 480
+ For instance 19  Optimal solution: 10291 	 Actually was: 3088 with the weight 500
+ For instance 20  Optimal solution: 10395 	 Actually was: 2950 with the weight 520
+ For instance 21  Optimal solution: 10022 	 Actually was: 3459 with the weight 540
+ For instance 22  Optimal solution: 10594 	 Actually was: 3920 with the weight 560
+ For instance 23  Optimal solution: 11031 	 Actually was: 3800 with the weight 580
+ For instance 24  Optimal solution: 10157 	 Actually was: 3252 with the weight 600
+ For instance 25  Optimal solution: 9695 	 Actually was: 3279 with the weight 620
+ For instance 26  Optimal solution: 9765 	 Actually was: 3122 with the weight 640
+ For instance 27  Optimal solution: 10014 	 Actually was: 3499 with the weight 660
+ For instance 28  Optimal solution: 10581 	 Actually was: 3401 with the weight 680
+ For instance 29  Optimal solution: 9835 	 Actually was: 3124 with the weight 700
+ For instance 30  Optimal solution: 10503 	 Actually was: 3568 with the weight 720
+ For instance 31  Optimal solution: 9952 	 Actually was: 3961 with the weight 740
+ For instance 32  Optimal solution: 10424 	 Actually was: 3535 with the weight 760
+ For instance 33  Optimal solution: 9545 	 Actually was: 3398 with the weight 780
+ For instance 34  Optimal solution: 10372 	 Actually was: 4140 with the weight 800
+ For instance 35  Optimal solution: 9774 	 Actually was: 3906 with the weight 820
+ For instance 36  Optimal solution: 9628 	 Actually was: 3435 with the weight 840
+ For instance 37  Optimal solution: 9740 	 Actually was: 4013 with the weight 860
+ For instance 38  Optimal solution: 10653 	 Actually was: 4165 with the weight 880
+ For instance 39  Optimal solution: 9477 	 Actually was: 4084 with the weight 900
+ For instance 40  Optimal solution: 10109 	 Actually was: 3787 with the weight 920
+ For instance 41  Optimal solution: 10869 	 Actually was: 4578 with the weight 940
+ For instance 42  Optimal solution: 10458 	 Actually was: 3953 with the weight 960
+ For instance 43  Optimal solution: 9809 	 Actually was: 3713 with the weight 980
+ For instance 44  Optimal solution: 10726 	 Actually was: 4127 with the weight 1000
+ For instance 45  Optimal solution: 10198 	 Actually was: 4748 with the weight 1020
+ For instance 46  Optimal solution: 10794 	 Actually was: 4593 with the weight 1040
+ For instance 47  Optimal solution: 10246 	 Actually was: 4483 with the weight 1060
+ For instance 48  Optimal solution: 10143 	 Actually was: 4811 with the weight 1080
+ For instance 49  Optimal solution: 10317 	 Actually was: 4931 with the weight 1100
+ For instance 50  Optimal solution: 9931 	 Actually was: 4618 with the weight 1120
+ For instance 51  Optimal solution: 10163 	 Actually was: 4521 with the weight 1140
+ For instance 52  Optimal solution: 10446 	 Actually was: 4348 with the weight 1160
+ For instance 53  Optimal solution: 10106 	 Actually was: 4860 with the weight 1180
+ For instance 54  Optimal solution: 10287 	 Actually was: 4723 with the weight 1200
+ For instance 55  Optimal solution: 9443 	 Actually was: 4145 with the weight 1220
+ For instance 56  Optimal solution: 9627 	 Actually was: 4548 with the weight 1240
+ For instance 57  Optimal solution: 9771 	 Actually was: 5337 with the weight 1260
+ For instance 58  Optimal solution: 9834 	 Actually was: 5249 with the weight 1280
+ For instance 59  Optimal solution: 10198 	 Actually was: 5303 with the weight 1300
+ For instance 60  Optimal solution: 10649 	 Actually was: 5260 with the weight 1320
+ For instance 61  Optimal solution: 10087 	 Actually was: 4701 with the weight 1340
+ For instance 62  Optimal solution: 10210 	 Actually was: 5460 with the weight 1360
+ For instance 63  Optimal solution: 10737 	 Actually was: 4883 with the weight 1380
+ For instance 64  Optimal solution: 9855 	 Actually was: 4762 with the weight 1400
+ For instance 65  Optimal solution: 10324 	 Actually was: 5235 with the weight 1420
+ For instance 66  Optimal solution: 10379 	 Actually was: 5312 with the weight 1440
+ For instance 67  Optimal solution: 10237 	 Actually was: 5290 with the weight 1460
+ For instance 68  Optimal solution: 9764 	 Actually was: 5244 with the weight 1480
+ For instance 69  Optimal solution: 10135 	 Actually was: 4412 with the weight 1500
+ For instance 70  Optimal solution: 10115 	 Actually was: 4932 with the weight 1520
+ For instance 71  Optimal solution: 10352 	 Actually was: 5497 with the weight 1540
+ For instance 72  Optimal solution: 9501 	 Actually was: 5289 with the weight 1560
+ For instance 73  Optimal solution: 9999 	 Actually was: 5255 with the weight 1580
+ For instance 74  Optimal solution: 9902 	 Actually was: 5393 with the weight 1600
+ For instance 75  Optimal solution: 10807 	 Actually was: 5856 with the weight 1620
+ For instance 76  Optimal solution: 10621 	 Actually was: 5242 with the weight 1640
+ For instance 77  Optimal solution: 9284 	 Actually was: 4801 with the weight 1660
+ For instance 78  Optimal solution: 10400 	 Actually was: 5730 with the weight 1680
+ For instance 79  Optimal solution: 9380 	 Actually was: 5181 with the weight 1700
+ For instance 80  Optimal solution: 10388 	 Actually was: 5707 with the weight 1720
+ For instance 81  Optimal solution: 10989 	 Actually was: 5894 with the weight 1740
+ For instance 82  Optimal solution: 9988 	 Actually was: 5817 with the weight 1760
+ For instance 83  Optimal solution: 9909 	 Actually was: 5533 with the weight 1780
+ For instance 84  Optimal solution: 10404 	 Actually was: 5987 with the weight 1800
+ For instance 85  Optimal solution: 9058 	 Actually was: 5998 with the weight 1820
+ For instance 86  Optimal solution: 10561 	 Actually was: 5866 with the weight 1840
+ For instance 87  Optimal solution: 10983 	 Actually was: 5801 with the weight 1860
+ For instance 88  Optimal solution: 10095 	 Actually was: 5899 with the weight 1880
+ For instance 89  Optimal solution: 10297 	 Actually was: 6219 with the weight 1900
+ For instance 90  Optimal solution: 10783 	 Actually was: 6212 with the weight 1920
+ For instance 91  Optimal solution: 10321 	 Actually was: 5768 with the weight 1940
+ For instance 92  Optimal solution: 9789 	 Actually was: 5364 with the weight 1960
+ For instance 93  Optimal solution: 10266 	 Actually was: 6208 with the weight 1980
+ For instance 94  Optimal solution: 10450 	 Actually was: 6047 with the weight 2000
+ For instance 95  Optimal solution: 9840 	 Actually was: 5988 with the weight 2020
+ For instance 96  Optimal solution: 10204 	 Actually was: 6153 with the weight 2040
+ For instance 97  Optimal solution: 9556 	 Actually was: 5875 with the weight 2060
+ For instance 98  Optimal solution: 9969 	 Actually was: 6583 with the weight 2080
+ For instance 99  Optimal solution: 10793 	 Actually was: 7008 with the weight 2100
+ For instance 100  Optimal solution: 10196 	 Actually was: 6141 with the weight 2120
+############################### 
+ 
+The median runtime of Max knapsack algorithm was 4.101 seconds. 
+The maximum runtime of the algorithm was 5.939 seconds and the minimum was 4.006 seconds. 
+The average runtime of the algorithm was 4.234 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 Optimal solution: 10351 	 Actually was: 10282 with the weight 120 
+ For instance 1 Optimal solution: 10802 	 Actually was: 10736 with the weight 140 
+ For instance 2 Optimal solution: 9861 	 Actually was: 9854 with the weight 160 
+ For instance 3 Optimal solution: 10399 	 Actually was: 10322 with the weight 180 
+ For instance 4 Optimal solution: 10279 	 Actually was: 10267 with the weight 200 
+ For instance 5 Optimal solution: 10550 	 Actually was: 10495 with the weight 220 
+ For instance 6 Optimal solution: 10523 	 Actually was: 10450 with the weight 240 
+ For instance 7 Optimal solution: 10670 	 Actually was: 10599 with the weight 260 
+ For instance 8 Optimal solution: 9968 	 Actually was: 9919 with the weight 280 
+ For instance 9 Optimal solution: 10390 	 Actually was: 10385 with the weight 300 
+ For instance 10 Optimal solution: 10125 	 Actually was: 10067 with the weight 320 
+ For instance 11 Optimal solution: 10236 	 Actually was: 10225 with the weight 340 
+ For instance 12 Optimal solution: 10187 	 Actually was: 10106 with the weight 360 
+ For instance 13 Optimal solution: 10597 	 Actually was: 10555 with the weight 380 
+ For instance 14 Optimal solution: 10387 	 Actually was: 10310 with the weight 400 
+ For instance 15 Optimal solution: 10122 	 Actually was: 10029 with the weight 420 
+ For instance 16 Optimal solution: 10318 	 Actually was: 10258 with the weight 440 
+ For instance 17 Optimal solution: 10158 	 Actually was: 10138 with the weight 460 
+ For instance 18 Optimal solution: 10193 	 Actually was: 10149 with the weight 480 
+ For instance 19 Optimal solution: 10291 	 Actually was: 10252 with the weight 500 
+ For instance 20 Optimal solution: 10395 	 Actually was: 10319 with the weight 520 
+ For instance 21 Optimal solution: 10022 	 Actually was: 9923 with the weight 540 
+ For instance 22 Optimal solution: 10594 	 Actually was: 10503 with the weight 560 
+ For instance 23 Optimal solution: 11031 	 Actually was: 10998 with the weight 580 
+ For instance 24 Optimal solution: 10157 	 Actually was: 10149 with the weight 600 
+ For instance 25 Optimal solution: 9695 	 Actually was: 9648 with the weight 620 
+ For instance 26 Optimal solution: 9765 	 Actually was: 9750 with the weight 640 
+ For instance 27 Optimal solution: 10014 	 Actually was: 9925 with the weight 660 
+ For instance 28 Optimal solution: 10581 	 Actually was: 10530 with the weight 680 
+ For instance 29 Optimal solution: 9835 	 Actually was: 9764 with the weight 700 
+ For instance 30 Optimal solution: 10503 	 Actually was: 10410 with the weight 720 
+ For instance 31 Optimal solution: 9952 	 Actually was: 9892 with the weight 740 
+ For instance 32 Optimal solution: 10424 	 Actually was: 10366 with the weight 760 
+ For instance 33 Optimal solution: 9545 	 Actually was: 9541 with the weight 780 
+ For instance 34 Optimal solution: 10372 	 Actually was: 10366 with the weight 800 
+ For instance 35 Optimal solution: 9774 	 Actually was: 9674 with the weight 820 
+ For instance 36 Optimal solution: 9628 	 Actually was: 9555 with the weight 840 
+ For instance 37 Optimal solution: 9740 	 Actually was: 9686 with the weight 860 
+ For instance 38 Optimal solution: 10653 	 Actually was: 10554 with the weight 880 
+ For instance 39 Optimal solution: 9477 	 Actually was: 9474 with the weight 900 
+ For instance 40 Optimal solution: 10109 	 Actually was: 10068 with the weight 920 
+ For instance 41 Optimal solution: 10869 	 Actually was: 10843 with the weight 940 
+ For instance 42 Optimal solution: 10458 	 Actually was: 10401 with the weight 960 
+ For instance 43 Optimal solution: 9809 	 Actually was: 9801 with the weight 980 
+ For instance 44 Optimal solution: 10726 	 Actually was: 10715 with the weight 1000 
+ For instance 45 Optimal solution: 10198 	 Actually was: 10148 with the weight 1020 
+ For instance 46 Optimal solution: 10794 	 Actually was: 10710 with the weight 1040 
+ For instance 47 Optimal solution: 10246 	 Actually was: 10184 with the weight 1060 
+ For instance 48 Optimal solution: 10143 	 Actually was: 10108 with the weight 1080 
+ For instance 49 Optimal solution: 10317 	 Actually was: 10233 with the weight 1100 
+ For instance 50 Optimal solution: 9931 	 Actually was: 9884 with the weight 1120 
+ For instance 51 Optimal solution: 10163 	 Actually was: 10128 with the weight 1140 
+ For instance 52 Optimal solution: 10446 	 Actually was: 10409 with the weight 1160 
+ For instance 53 Optimal solution: 10106 	 Actually was: 10015 with the weight 1180 
+ For instance 54 Optimal solution: 10287 	 Actually was: 10261 with the weight 1200 
+ For instance 55 Optimal solution: 9443 	 Actually was: 9401 with the weight 1220 
+ For instance 56 Optimal solution: 9627 	 Actually was: 9586 with the weight 1240 
+ For instance 57 Optimal solution: 9771 	 Actually was: 9701 with the weight 1260 
+ For instance 58 Optimal solution: 9834 	 Actually was: 9830 with the weight 1280 
+ For instance 59 Optimal solution: 10198 	 Actually was: 10127 with the weight 1300 
+ For instance 60 Optimal solution: 10649 	 Actually was: 10584 with the weight 1320 
+ For instance 61 Optimal solution: 10087 	 Actually was: 10010 with the weight 1340 
+ For instance 62 Optimal solution: 10210 	 Actually was: 10114 with the weight 1360 
+ For instance 63 Optimal solution: 10737 	 Actually was: 10641 with the weight 1380 
+ For instance 64 Optimal solution: 9855 	 Actually was: 9794 with the weight 1400 
+ For instance 65 Optimal solution: 10324 	 Actually was: 10266 with the weight 1420 
+ For instance 66 Optimal solution: 10379 	 Actually was: 10312 with the weight 1440 
+ For instance 67 Optimal solution: 10237 	 Actually was: 10197 with the weight 1460 
+ For instance 68 Optimal solution: 9764 	 Actually was: 9683 with the weight 1480 
+ For instance 69 Optimal solution: 10135 	 Actually was: 10109 with the weight 1500 
+ For instance 70 Optimal solution: 10115 	 Actually was: 10034 with the weight 1520 
+ For instance 71 Optimal solution: 10352 	 Actually was: 10320 with the weight 1540 
+ For instance 72 Optimal solution: 9501 	 Actually was: 9408 with the weight 1560 
+ For instance 73 Optimal solution: 9999 	 Actually was: 9900 with the weight 1580 
+ For instance 74 Optimal solution: 9902 	 Actually was: 9885 with the weight 1600 
+ For instance 75 Optimal solution: 10807 	 Actually was: 10736 with the weight 1620 
+ For instance 76 Optimal solution: 10621 	 Actually was: 10546 with the weight 1640 
+ For instance 77 Optimal solution: 9284 	 Actually was: 9271 with the weight 1660 
+ For instance 78 Optimal solution: 10400 	 Actually was: 10388 with the weight 1680 
+ For instance 79 Optimal solution: 9380 	 Actually was: 9363 with the weight 1700 
+ For instance 80 Optimal solution: 10388 	 Actually was: 10313 with the weight 1720 
+ For instance 81 Optimal solution: 10989 	 Actually was: 10924 with the weight 1740 
+ For instance 82 Optimal solution: 9988 	 Actually was: 9947 with the weight 1760 
+ For instance 83 Optimal solution: 9909 	 Actually was: 9836 with the weight 1780 
+ For instance 84 Optimal solution: 10404 	 Actually was: 10330 with the weight 1800 
+ For instance 85 Optimal solution: 9058 	 Actually was: 9005 with the weight 1820 
+ For instance 86 Optimal solution: 10561 	 Actually was: 10509 with the weight 1840 
+ For instance 87 Optimal solution: 10983 	 Actually was: 10943 with the weight 1860 
+ For instance 88 Optimal solution: 10095 	 Actually was: 10039 with the weight 1880 
+ For instance 89 Optimal solution: 10297 	 Actually was: 10266 with the weight 1900 
+ For instance 90 Optimal solution: 10783 	 Actually was: 10770 with the weight 1920 
+ For instance 91 Optimal solution: 10321 	 Actually was: 10273 with the weight 1940 
+ For instance 92 Optimal solution: 9789 	 Actually was: 9764 with the weight 1960 
+ For instance 93 Optimal solution: 10266 	 Actually was: 10251 with the weight 1980 
+ For instance 94 Optimal solution: 10450 	 Actually was: 10423 with the weight 2000 
+ For instance 95 Optimal solution: 9840 	 Actually was: 9815 with the weight 2020 
+ For instance 96 Optimal solution: 10204 	 Actually was: 10150 with the weight 2040 
+ For instance 97 Optimal solution: 9556 	 Actually was: 9548 with the weight 2060 
+ For instance 98 Optimal solution: 9969 	 Actually was: 9930 with the weight 2080 
+ For instance 99 Optimal solution: 10793 	 Actually was: 10725 with the weight 2100 
+ For instance 100 Optimal solution: 10196 	 Actually was: 10125 with the weight 2120 
+############################### 
+ 
+The median runtime of Approximation knapsack algorithm was 4.082 seconds. 
+The maximum runtime of the algorithm was 5.446 seconds and the minimum was 3.952 seconds. 
+The average runtime of the algorithm was 4.345 seconds. 
+Here are all the optimal solutions: 
+ For instance 0 . Optimal solution: 10351 Actually was: 10282 with the weight 120
+  For instance 1 . Optimal solution: 10802 Actually was: 10736 with the weight 140
+  For instance 2 . Optimal solution: 9861 Actually was: 9854 with the weight 160
+  For instance 3 . Optimal solution: 10399 Actually was: 10322 with the weight 180
+  For instance 4 . Optimal solution: 10279 Actually was: 10267 with the weight 200
+  For instance 5 . Optimal solution: 10550 Actually was: 10495 with the weight 220
+  For instance 6 . Optimal solution: 10523 Actually was: 10450 with the weight 240
+  For instance 7 . Optimal solution: 10670 Actually was: 10599 with the weight 260
+  For instance 8 . Optimal solution: 9968 Actually was: 9919 with the weight 280
+  For instance 9 . Optimal solution: 10390 Actually was: 10385 with the weight 300
+  For instance 10 . Optimal solution: 10125 Actually was: 10067 with the weight 320
+  For instance 11 . Optimal solution: 10236 Actually was: 10225 with the weight 340
+  For instance 12 . Optimal solution: 10187 Actually was: 10106 with the weight 360
+  For instance 13 . Optimal solution: 10597 Actually was: 10555 with the weight 380
+  For instance 14 . Optimal solution: 10387 Actually was: 10310 with the weight 400
+  For instance 15 . Optimal solution: 10122 Actually was: 10029 with the weight 420
+  For instance 16 . Optimal solution: 10318 Actually was: 10258 with the weight 440
+  For instance 17 . Optimal solution: 10158 Actually was: 10138 with the weight 460
+  For instance 18 . Optimal solution: 10193 Actually was: 10149 with the weight 480
+  For instance 19 . Optimal solution: 10291 Actually was: 10252 with the weight 500
+  For instance 20 . Optimal solution: 10395 Actually was: 10319 with the weight 520
+  For instance 21 . Optimal solution: 10022 Actually was: 9923 with the weight 540
+  For instance 22 . Optimal solution: 10594 Actually was: 10503 with the weight 560
+  For instance 23 . Optimal solution: 11031 Actually was: 10998 with the weight 580
+  For instance 24 . Optimal solution: 10157 Actually was: 10149 with the weight 600
+  For instance 25 . Optimal solution: 9695 Actually was: 9648 with the weight 620
+  For instance 26 . Optimal solution: 9765 Actually was: 9750 with the weight 640
+  For instance 27 . Optimal solution: 10014 Actually was: 9925 with the weight 660
+  For instance 28 . Optimal solution: 10581 Actually was: 10530 with the weight 680
+  For instance 29 . Optimal solution: 9835 Actually was: 9764 with the weight 700
+  For instance 30 . Optimal solution: 10503 Actually was: 10410 with the weight 720
+  For instance 31 . Optimal solution: 9952 Actually was: 9892 with the weight 740
+  For instance 32 . Optimal solution: 10424 Actually was: 10366 with the weight 760
+  For instance 33 . Optimal solution: 9545 Actually was: 9541 with the weight 780
+  For instance 34 . Optimal solution: 10372 Actually was: 10366 with the weight 800
+  For instance 35 . Optimal solution: 9774 Actually was: 9674 with the weight 820
+  For instance 36 . Optimal solution: 9628 Actually was: 9555 with the weight 840
+  For instance 37 . Optimal solution: 9740 Actually was: 9686 with the weight 860
+  For instance 38 . Optimal solution: 10653 Actually was: 10554 with the weight 880
+  For instance 39 . Optimal solution: 9477 Actually was: 9474 with the weight 900
+  For instance 40 . Optimal solution: 10109 Actually was: 10068 with the weight 920
+  For instance 41 . Optimal solution: 10869 Actually was: 10843 with the weight 940
+  For instance 42 . Optimal solution: 10458 Actually was: 10401 with the weight 960
+  For instance 43 . Optimal solution: 9809 Actually was: 9801 with the weight 980
+  For instance 44 . Optimal solution: 10726 Actually was: 10715 with the weight 1000
+  For instance 45 . Optimal solution: 10198 Actually was: 10148 with the weight 1020
+  For instance 46 . Optimal solution: 10794 Actually was: 10710 with the weight 1040
+  For instance 47 . Optimal solution: 10246 Actually was: 10184 with the weight 1060
+  For instance 48 . Optimal solution: 10143 Actually was: 10108 with the weight 1080
+  For instance 49 . Optimal solution: 10317 Actually was: 10233 with the weight 1100
+  For instance 50 . Optimal solution: 9931 Actually was: 9884 with the weight 1120
+  For instance 51 . Optimal solution: 10163 Actually was: 10128 with the weight 1140
+  For instance 52 . Optimal solution: 10446 Actually was: 10409 with the weight 1160
+  For instance 53 . Optimal solution: 10106 Actually was: 10015 with the weight 1180
+  For instance 54 . Optimal solution: 10287 Actually was: 10261 with the weight 1200
+  For instance 55 . Optimal solution: 9443 Actually was: 9401 with the weight 1220
+  For instance 56 . Optimal solution: 9627 Actually was: 9586 with the weight 1240
+  For instance 57 . Optimal solution: 9771 Actually was: 9701 with the weight 1260
+  For instance 58 . Optimal solution: 9834 Actually was: 9830 with the weight 1280
+  For instance 59 . Optimal solution: 10198 Actually was: 10127 with the weight 1300
+  For instance 60 . Optimal solution: 10649 Actually was: 10584 with the weight 1320
+  For instance 61 . Optimal solution: 10087 Actually was: 10010 with the weight 1340
+  For instance 62 . Optimal solution: 10210 Actually was: 10114 with the weight 1360
+  For instance 63 . Optimal solution: 10737 Actually was: 10641 with the weight 1380
+  For instance 64 . Optimal solution: 9855 Actually was: 9794 with the weight 1400
+  For instance 65 . Optimal solution: 10324 Actually was: 10266 with the weight 1420
+  For instance 66 . Optimal solution: 10379 Actually was: 10312 with the weight 1440
+  For instance 67 . Optimal solution: 10237 Actually was: 10197 with the weight 1460
+  For instance 68 . Optimal solution: 9764 Actually was: 9683 with the weight 1480
+  For instance 69 . Optimal solution: 10135 Actually was: 10109 with the weight 1500
+  For instance 70 . Optimal solution: 10115 Actually was: 10034 with the weight 1520
+  For instance 71 . Optimal solution: 10352 Actually was: 10320 with the weight 1540
+  For instance 72 . Optimal solution: 9501 Actually was: 9408 with the weight 1560
+  For instance 73 . Optimal solution: 9999 Actually was: 9900 with the weight 1580
+  For instance 74 . Optimal solution: 9902 Actually was: 9885 with the weight 1600
+  For instance 75 . Optimal solution: 10807 Actually was: 10736 with the weight 1620
+  For instance 76 . Optimal solution: 10621 Actually was: 10546 with the weight 1640
+  For instance 77 . Optimal solution: 9284 Actually was: 9271 with the weight 1660
+  For instance 78 . Optimal solution: 10400 Actually was: 10388 with the weight 1680
+  For instance 79 . Optimal solution: 9380 Actually was: 9363 with the weight 1700
+  For instance 80 . Optimal solution: 10388 Actually was: 10313 with the weight 1720
+  For instance 81 . Optimal solution: 10989 Actually was: 10924 with the weight 1740
+  For instance 82 . Optimal solution: 9988 Actually was: 9947 with the weight 1760
+  For instance 83 . Optimal solution: 9909 Actually was: 9836 with the weight 1780
+  For instance 84 . Optimal solution: 10404 Actually was: 10330 with the weight 1800
+  For instance 85 . Optimal solution: 9058 Actually was: 9005 with the weight 1820
+  For instance 86 . Optimal solution: 10561 Actually was: 10509 with the weight 1840
+  For instance 87 . Optimal solution: 10983 Actually was: 10943 with the weight 1860
+  For instance 88 . Optimal solution: 10095 Actually was: 10039 with the weight 1880
+  For instance 89 . Optimal solution: 10297 Actually was: 10266 with the weight 1900
+  For instance 90 . Optimal solution: 10783 Actually was: 10770 with the weight 1920
+  For instance 91 . Optimal solution: 10321 Actually was: 10273 with the weight 1940
+  For instance 92 . Optimal solution: 9789 Actually was: 9764 with the weight 1960
+  For instance 93 . Optimal solution: 10266 Actually was: 10251 with the weight 1980
+  For instance 94 . Optimal solution: 10450 Actually was: 10423 with the weight 2000
+  For instance 95 . Optimal solution: 9840 Actually was: 9815 with the weight 2020
+  For instance 96 . Optimal solution: 10204 Actually was: 10150 with the weight 2040
+  For instance 97 . Optimal solution: 9556 Actually was: 9548 with the weight 2060
+  For instance 98 . Optimal solution: 9969 Actually was: 9930 with the weight 2080
+  For instance 99 . Optimal solution: 10793 Actually was: 10725 with the weight 2100
+  For instance 100 . Optimal solution: 10196 Actually was: 10125 with the weight 2120
+ ############################### 
+ 
