@@ -30,14 +30,10 @@ def knapSackApproxSchemce(objectList, scaleFactor, target):
     for item in items:
         if item.getValue() >= maximumA:
             maximumA = item.getValue()
-    #TODO what if I change the value in the ObjectList. then I don't have to pass a separate valueList. 
     for item in items:
         F =  (maximumA/ (len(items)-1)) * scaleFactor
         #scaled.append(math.floor((item.getValue())/F))
         item.setValue(math.floor((item.getValue())/F))
-    # target = 0
-    # for elm in scaled:
-    #     target += target + elm
     result = solveMaximumKnapsack(items, target)
     return result
 
